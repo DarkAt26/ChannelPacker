@@ -26,3 +26,4 @@ First step before export is to set the Output Size, you can select any size here
 Then you can click on "Export as Bitmap" in the top left and export your new channel packed texture. If you pack something in the alpha channel make sure your format supports transparency such as png or tga.<br>
 <img width="3839" height="2073" alt="grafik" src="https://github.com/user-attachments/assets/51546a48-cd91-464c-ac17-49e26cffe29c" />
 <img width="3839" height="2079" alt="grafik" src="https://github.com/user-attachments/assets/92605834-ad61-4e60-9fab-7424f3ace970" />
+The RGBA.tga used as an example here is uploaded to the repo with a direct download link to it [here](https://github.com/DarkAt26/ChannelPacker/raw/refs/heads/main/RGBA.tga).
